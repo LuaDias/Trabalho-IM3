@@ -1,0 +1,70 @@
+//TEMA ESCOLHIDO: ESCOLA//
+
+{
+  "aluno": [
+  {
+    "nome":"Felipe Oliveira",
+    "idade": "20",
+    "turma":"1"
+  },
+  {
+    "nome":"Michelle Oliveira",
+    "idade":"21",
+    "turma":"2"
+  },
+  {
+    "nome":"Elen Oliveira",
+    "idade":"22",
+    "turma":"3"
+
+  },
+  {
+    "nome":"Dayse Oliveira",
+    "idade":"22",
+    "turma":"4"
+  }
+],
+"trabalho":[
+{
+  "tema":"",
+  "nota":"",
+  "classificação":"",
+  "":""
+},
+{
+  "tema":"",
+  "nota":"",
+  "classificação":"",
+  "":""
+},
+{
+  "tema":"",
+  "nota":"",
+  "classificação":"",
+  "":""
+},
+{
+  "tema":"",
+  "nota":"",
+  "classificação":"",
+  "":""
+}],
+"Atividade"[
+  {
+
+  },
+{
+
+},
+{
+
+},
+{
+
+}],
+""[{
+  
+}
+
+]
+}
