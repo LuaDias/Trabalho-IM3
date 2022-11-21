@@ -1,2 +1,2 @@
 # Trabalho-IM3
-trabalho individual módulo 3
+Trabalho individual módulo 3
